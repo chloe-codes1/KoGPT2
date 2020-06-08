@@ -15,4 +15,4 @@
 
 
 # from .gpt import *
-from ..pytorch_kogpt2 import *
+from .torch_gpt2 import *
