@@ -14,5 +14,5 @@
 # limitations under the License.
 
 
-from .gpt import *
-# from .torch_gpt2 import *
+# from .gpt import *
+from ..pytorch_kogpt2 import *
